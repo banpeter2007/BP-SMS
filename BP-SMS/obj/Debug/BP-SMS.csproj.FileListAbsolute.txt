@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\bin\Debug\BP-SMS.exe.config
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\bin\Debug\BP-SMS.exe
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\bin\Debug\BP-SMS.pdb
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\obj\Debug\BP-SMS.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\obj\Debug\BP-SMS.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\obj\Debug\BP-SMS.exe
+C:\Users\user\Documents\Github\BP-SMS\BP-SMS\obj\Debug\BP-SMS.pdb
