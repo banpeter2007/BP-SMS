@@ -3,9 +3,20 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace BP_SMS
 {
+    #region Fájlbeolvasás
+    // Fájlbeolvasás
+    class Filebeolvasas
+    {
+        public void Beolvasas(string fajlnev)
+        {
+            string[] sorok = File.ReadAllLines(fajlnev);
+        }
+    }
+    #endregion
     internal class Program
     {
         #region fejlec
@@ -26,6 +37,10 @@ namespace BP_SMS
         static void Main(string[] args)
         {
             fejlec();
+
+            Filebeolvasas filebeolvasas = new Filebeolvasas();
+            filebeolvasas.Beolvasas("szavak.txt");
+            Console.WriteLine("A szavak beolvasása megtörtént!");
 
             Console.WriteLine();
             Console.WriteLine("Kilépéshez nyomja meg az ENTER billentyűt.");
